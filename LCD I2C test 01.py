@@ -1,4 +1,4 @@
-# Displaying a logo
+# Drawing a logo
 
 import machine
 import framebuf
