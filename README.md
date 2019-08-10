@@ -1,7 +1,7 @@
 # PyBoard_experiments
  
 ## Experiments:
-- LCD I2C test 01: Displaying/Drawing a logo
+- LCD I2C test 01: Logo drawing
 - LCD I2C test 02: Logo animations
 - LCD I2C test 03: Auto-centering text, and single-pixel animations
 
